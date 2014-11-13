@@ -2,3 +2,4 @@ feature6
 ********
 starting
 continuing
+finished
