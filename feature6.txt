@@ -1,5 +1,5 @@
-feature6-a
-**********
+feature6-a/b
+****************
 starting
 continuing
 finished
